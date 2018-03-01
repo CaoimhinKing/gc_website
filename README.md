@@ -1,4 +1,4 @@
 # gc_website
-Simple Docker Demo App
-with nginx proxy
-written in Angular
+o Simple Docker Demo App   
+o with nginx proxy   
+o written in Angular   
