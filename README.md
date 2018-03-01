@@ -1,1 +1,2 @@
-# gc_website
+# hellowhale
+Simple Docker Demo App
